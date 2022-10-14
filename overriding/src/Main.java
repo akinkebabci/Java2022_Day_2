@@ -5,5 +5,6 @@ public class Main {
             double sonuc = krediManager.hesapla(1000);
             System.out.println(sonuc);
         }
+
     }
 }

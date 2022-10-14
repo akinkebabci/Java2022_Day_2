@@ -2,17 +2,35 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstrackDemo/abstrackDemo.iml" filepath="$PROJECT_DIR$/abstrackDemo/abstrackDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractClasess/abstractClasess.iml" filepath="$PROJECT_DIR$/abstractClasess/abstractClasess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListDemo/arrayListDemo.iml" filepath="$PROJECT_DIR$/arrayListDemo/arrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListTypeDemo/arrayListTypeDemo.iml" filepath="$PROJECT_DIR$/arrayListTypeDemo/arrayListTypeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListWithClass/arrayListWithClass.iml" filepath="$PROJECT_DIR$/arrayListWithClass/arrayListWithClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionHandling/exceptionHandling.iml" filepath="$PROJECT_DIR$/exceptionHandling/exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMapDemo/hashMapDemo.iml" filepath="$PROJECT_DIR$/hashMapDemo/hashMapDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/java2022Odev_2.iml" filepath="$PROJECT_DIR$/java2022Odev_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcIntro/jdbcIntro.iml" filepath="$PROJECT_DIR$/jdbcIntro/jdbcIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/methods2/methods2.iml" filepath="$PROJECT_DIR$/methods2/methods2.iml" />
       <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packagesDemo/packagesDemo.iml" filepath="$PROJECT_DIR$/packagesDemo/packagesDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymotphismDemo/polymotphismDemo.iml" filepath="$PROJECT_DIR$/polymotphismDemo/polymotphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readingFileDemo/readingFileDemo.iml" filepath="$PROJECT_DIR$/readingFileDemo/readingFileDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapDemo_classes/recapDemo_classes.iml" filepath="$PROJECT_DIR$/recapDemo_classes/recapDemo_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repositoryDemo/repositoryDemo.iml" filepath="$PROJECT_DIR$/repositoryDemo/repositoryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/staticDemo/staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadingDemo/threadingDemo.iml" filepath="$PROJECT_DIR$/threadingDemo/threadingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throwDemo/throwDemo.iml" filepath="$PROJECT_DIR$/throwDemo/throwDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" filepath="$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" />
     </modules>
   </component>
 </project>
